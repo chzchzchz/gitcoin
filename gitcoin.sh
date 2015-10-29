@@ -37,6 +37,7 @@ commits=`git rev-list HEAD --count`
 n=`bc -l <<< "1+(l($commits)/l(2))/4" |  cut -f1 -d'.'`
 x="0"
 oldhash=`git log | head -n1 | grep commit | cut -f2 -d' '`
+git branch -D gitbux-work
 while [ 1 ]; do
 	git checkout -b gitbux-work >/dev/null 2>&1
 	cat $WALLET/id_rsa.pub >>gitchain.dat
