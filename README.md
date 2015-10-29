@@ -4,11 +4,11 @@ Now you too can be a _gitcoin_ cryptocurrency gorillionaire.
 
 ## The git chain: an eternal golden braid ##
 
-The copyleft patent pending _gitcoin_ technology is bitcoin for git. A _gitcoin_ miner converts precious electricity to nonsense git commits. If the first 1+(lg(commits))/4 of the commit SHA are lucky, it's a new gitcoin and the world is all the more richer.
+The copyleft patent pending _gitcoin_ technology is bitcoin for git. A _gitcoin_ miner converts precious electricity to nonsense git commits. If the first 1+(lg(commits))/4 digits of the commit SHA are lucky, it's a new gitcoin and the world is all the more richer.
 
 _gitcoin_ is designed to be a naturally deflationary currency; the value of _gitcoin_ can only increase!
 Therefore, all rational agents must hoard gitcoin forever.
-To prevent irrational agents sabotaging the gitcoin network (cf., Byzantine economists problem), there is no way to spend/transfer gitcoins.
+To prevent irrational agents from sabotaging the gitcoin network (cf., Byzantine economists problem), there is no way to spend/transfer gitcoins.
 
 ## Usage ##
 
