@@ -48,6 +48,8 @@ while [ 1 ]; do
 	t=`echo $oldhash $newhash | awk '{ print substr($1,0,'$n') " == " substr($2,0,'$n'); }'`
 	if [ $t ]; then
 		echo "Congratulations you have mined GITCOIN!"
+		echo "Old hash: $oldhash"
+		echo "New hash: $newhash"
 		echo $t
 		echo $x
 		git checkout gitbux
